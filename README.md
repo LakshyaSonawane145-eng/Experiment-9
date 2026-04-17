@@ -86,5 +86,7 @@ Used in machine learning and data science
 
 ✅ Conclusion
 
-NumPy is a powerful and efficient numerical computing library in Python. It provides multi-dimensional arrays, fast vectorized operations, and numerous built-in mathematical functions. Because of its speed, memory efficiency, and advanced functionality, NumPy forms the foundation of many data science and scientific computing libraries.
+NumPy is a powerful and efficient numerical computing library in Python. 
+It provides multi-dimensional arrays, fast vectorized operations, and numerous built-in mathematical functions. 
+Because of its speed, memory efficiency, and advanced functionality, NumPy forms the foundation of many data science and scientific computing libraries.
 
